@@ -1,0 +1,14 @@
+.titulo-1{
+    color: cornsilk;
+    background-color: hsl(152, 83%, 40%);
+}
+body{
+    background-image: url(https://pbs.twimg.com/media/Fae78LdXwAQbLWD.jpg:large);
+    background-size:960px;
+}
+.button{
+    background-color: hsl(152, 83%, 40%);
+}
+.button p{
+    color:cornsilk ;
+}
